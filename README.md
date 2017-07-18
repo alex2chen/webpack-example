@@ -1,4 +1,4 @@
-首先全局安装webpack,
+首先全局安装webpack<br/>
 <img src="ex1.jpg"/>
 ```bash
 $ cd ex1
